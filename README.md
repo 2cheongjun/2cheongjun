@@ -6,7 +6,7 @@
 ![img1](https://user-images.githubusercontent.com/74134181/174625021-5d2e313c-60ce-4b5d-8a06-d1f4a8c694d1.png)
 
 - **Language:** Swift, php
-- **Libary:** Alamofire**,** BSImagePicker, Kingfisher, JSON, NaverMapAPI
+- **Libary:** Alamofire, BSImagePicker, Kingfisher, JSON, NaverMapAPI
 - **Server :** AWS / Amazon EC2 - OS: Ubuntu 18.04.5
 - **Database :** Mysql
 - **Protocol :** HTTP
