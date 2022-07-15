@@ -7,7 +7,7 @@
 ▶ 사용기술 <br>
 - **Language:** Swift, php
 - **UI:** UIKit, Autolayout
-- **Libary:** Alamofire, BSImagePicker, Kingfisher, JSON, NaverMapAPI
+- **Libary:** Alamofire, BSImagePicker, Kingfisher, swiftyJSON, NaverMapAPI
 - **Server :** AWS / Amazon EC2 - OS: Ubuntu 18.04.5
 - **Database :** Mysql
 - **Protocol :** HTTP  
