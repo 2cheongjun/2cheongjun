@@ -7,7 +7,7 @@ https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057
 ▶ 사용기술 <br>
 - **Language:** Swift, php, Node.js
 - **UI:** UIKit, Autolayout
-- **Libary:** Alamofire, BSImagePicker, Kingfisher,IQKeyboardManagerSwift, NaverMapAPI, socket.io
+- **Libary:** Alamofire, BSImagePicker, Kingfisher, IQKeyboardManagerSwift, NaverMapAPI, socket.io
 - **Server :** AWS / Amazon EC2 - OS: Ubuntu 18.04.5
 - **Database :** Mysql
 - **Protocol :** HTTP  
