@@ -13,12 +13,12 @@ https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057 
 <details markdown="1">
 <summary>글자줍기 주요기능</summary>
 ▶ 사용기술 <br>
-- **Language:** Swift, php, Node.js
-- **UI:** UIKit, Autolayout
-- **Libary:** Alamofire, BSImagePicker, Kingfisher, IQKeyboardManagerSwift, socket.io
-- **Server :** AWS / Amazon EC2 - OS: Ubuntu 18.04.5
-- **Database :** Mysql
-- **Protocol :** HTTP  
+- Language: Swift, php, Node.js<br>
+- UI: UIKit, Autolayout<br>
+- Libary: Alamofire, BSImagePicker, Kingfisher, IQKeyboardManagerSwift, socket.io<br>
+- Server : AWS / Amazon EC2 - OS: Ubuntu 18.04.5<br>
+- Database : Mysql<br>
+- Protocol : HTTP  <br><br>
 
 ▶ 주요기능<br>
 
