@@ -1,6 +1,6 @@
 ### 2cheongjun<br> 
 
-▶ 포트폴리오 더보기 (iOS,Android,java 등..) <br>
+▶ 포트폴리오 더보기 (iOS, Android,Java..) <br>
 https://bluedogs.tistory.com/category/Portfolio
 <br>
 <br>
