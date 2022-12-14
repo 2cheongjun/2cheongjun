@@ -1,5 +1,9 @@
 ### 2cheongjun<br> 
 
+▶ 포트폴리오 더보기 (iOS,Android 등) <br>
+https://bluedogs.tistory.com/category/Portfolio
+<br>
+<br>
 📱글자줍기 앱스토어 런칭 <br><br>
 ▶ 앱스토어에서 글자줍기 검색<br>
 https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057
