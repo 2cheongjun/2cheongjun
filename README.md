@@ -4,10 +4,15 @@
 https://bluedogs.tistory.com/category/Portfolio
 <br>
 <br>
-📱글자줍기 앱스토어 런칭 <br><br>
-▶ 앱스토어에서 글자줍기 검색<br>
-https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057
-![img1](https://user-images.githubusercontent.com/74134181/174625021-5d2e313c-60ce-4b5d-8a06-d1f4a8c694d1.png)
+<br>
+▶ 앤딩 앱스토어 런칭<br>
+https://apps.apple.com/kr/app/%EC%95%A4%EB%94%A9-anding/id6444385375 <br>
+
+▶ 글자줍기 앱스토어 런칭<br>
+https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057 <br>
+
+<details markdown="1">
+<summary>글자줍기 주요기능</summary>
 ▶ 사용기술 <br>
 - **Language:** Swift, php, Node.js
 - **UI:** UIKit, Autolayout
@@ -76,6 +81,11 @@ UI수정<br>
 <br>
 ○ 1.0.2 업데이트<br>
 UI수정
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+</details>
+
+
 
 <br>
 <br>
