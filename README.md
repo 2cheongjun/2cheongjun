@@ -1,9 +1,6 @@
 ### <br> 
-▶ 앤딩 앱스토어 런칭<br>
-https://apps.apple.com/kr/app/%EC%95%A4%EB%94%A9-anding/id6444385375 <br>
-
-▶ 글자줍기 앱스토어 런칭<br>
-https://apps.apple.com/kr/app/%EA%B8%80%EC%9E%90%EC%A4%8D%EA%B8%B0/id1629812057 <br>
+▶ 앤딩 앱스토어 런칭 /2022.11<br>
+▶ 글자줍기 앱스토어 런칭 /2022.03 <br>
 
 <details markdown="1">
 <summary>글자줍기 주요기능</summary>
