@@ -2,7 +2,7 @@
 ▶ 앤딩 앱스토어 런칭 /2022.11<br>
 ▶ 글자줍기 앱스토어 런칭 /2022.03 <br>
 
-글자줍기 주요기능
+글자줍기 주요기능<br>
 ▶ 사용기술 <br>
 - Language: Swift, php, Node.js<br>
 - UI: UIKit, Autolayout<br>
