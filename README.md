@@ -2,8 +2,7 @@
 ▶ 앤딩 앱스토어 런칭 /2022.11<br>
 ▶ 글자줍기 앱스토어 런칭 /2022.03 <br>
 
-<details markdown="1">
-<summary>글자줍기 주요기능</summary>
+글자줍기 주요기능
 ▶ 사용기술 <br>
 - Language: Swift, php, Node.js<br>
 - UI: UIKit, Autolayout<br>
@@ -73,8 +72,6 @@ UI수정<br>
 ○ 1.0.2 업데이트<br>
 UI수정
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-
-</details>
 
 
 
